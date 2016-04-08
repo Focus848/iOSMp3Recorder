@@ -13,6 +13,8 @@ AVAudioRecorder + lame Mp3 Encoder
 
 ##Reference:
 
+ https://github.com/wuqiong/mp3lame-for-iOS
+
 http://www.cocoachina.com/bbs/read.php?tid=82730&keyword=lame
 
 http://stackoverflow.com/questions/1022992/how-to-get-avaudioplayer-output-to-the-speaker
